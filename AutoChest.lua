@@ -97,7 +97,7 @@ function thisCode()
         local CoreGui = game:GetService("StarterGui")
         CoreGui:SetCore("SendNotification", {
             Title = "Auto Chest",
-            Text = "On",
+            Text = "Subscribe To Uranium Hub",
             Duration = math.huge,
             Callback = AllowRunServiceBind,
         })
@@ -106,7 +106,7 @@ function thisCode()
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "Auto Chest",
-        Text = "On",
+        Text = "Subscribe To Uranium Hub",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
     })
